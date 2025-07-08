@@ -1,4 +1,4 @@
-<h1>👋 Hi there, Call me Ngoc</h1>
+<h1>👋 Ohayou, Call me Ngoc</h1>
 
 <p>
   <em>A passionate developer aiming to build real-world AI-powered applications</em>
@@ -18,8 +18,7 @@
 
 ## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,java,spring,cs,cpp,c,html,css,js,mysql,postgresql,github,vscode" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python, django, flask,streamlit,java,spring,cs,cpp,c,html,css,js,mysql" />
 
 ---
 

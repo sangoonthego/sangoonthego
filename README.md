@@ -1,7 +1,9 @@
 <h1>👋 Ohayou, Call me Ngoc</h1>
 
 <p>
-  <em>A passionate developer aiming to build real-world AI-powered applications</em>
+  <em>Computer Science is really an indispensable part of my life. I'm currently studying and researching AI, with a strong passion for creating a LLM-based ChatBot that can assist in learning and answering questions.
+
+My goal is to build a smart assistant that helps people (including me of course) learn more effectively by providing accurate explanations, knowledge visualization, instant feedback, and helpful resources, just like a reliable study partner. I believe I can do it. </em>
 </p>
 
 ---

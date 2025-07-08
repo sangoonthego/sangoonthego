@@ -11,8 +11,7 @@ My goal is to build a smart assistant that helps people (including me of course)
 ## 💡 Current Focus
 
 - 🤖 Exploring Large Language Models (LLMs) and real-world AI applications  
-- 💻 Strengthening back-end skills with Django, Flask, and Spring Boot  
-- 🌐 Building full-stack web applications using HTML, CSS, JavaScript  
+- 💻 Strengthening back-end skills with Django, Flask, and Spring Boot   
 - 🧠 Writing clean, scalable, and maintainable code  
 - 🛠 Improving database design and system performance
 

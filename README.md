@@ -19,7 +19,7 @@ My goal is to build a smart assistant that helps people (including me of course)
 
 ## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,java,spring,cs,cpp,c,html,css,js,mysql" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,dockerfile,java,spring,cs,cpp,c,html,css,js,mysql" />
 
 ---
 

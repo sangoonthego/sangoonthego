@@ -26,8 +26,14 @@ My goal is to build a smart assistant that helps people (including me of course)
 
 ## ⚙️ Dev Tools / Testing / API
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,swaggerui,docker" />
+  <img src="https://skillicons.dev/icons?i=postman,docker" />
+  <img src="https://img.shields.io/badge/Swagger-UI-green?logo=swagger" />
 </p>
+
+- **Postman**
+- **Swagger UI**
+- **Docker**
+
 
 ## 🎨 Frontend
 <p>

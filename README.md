@@ -19,7 +19,30 @@ My goal is to build a smart assistant that helps people (including me of course)
 
 ## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postman,swaggerui,flask,docker,java,spring,cs,cpp,c,html,css,js,mysql,mongo,react,bootstrap,tailwind,scss,less" />
+## 🧠 Backend / API
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,java,spring" />
+</p>
+
+## ⚙️ Dev Tools / Testing / API
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,swaggerui,docker" />
+</p>
+
+## 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,scss,less" />
+</p>
+
+## 🗃️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongo" />
+</p>
+
+## 🧮 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c" />
+</p>
 
 ---
 

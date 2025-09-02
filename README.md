@@ -31,7 +31,7 @@ My goal is to build a smart assistant that helps people (including me of course)
 
 ## 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=flutter,html,css,js,react,bootstrap,tailwind" />
 </p>
 
 ## 🗃️ Database
@@ -41,7 +41,7 @@ My goal is to build a smart assistant that helps people (including me of course)
 
 ## 🧮 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,dart,kotlin" />
 </p>
 
 ---

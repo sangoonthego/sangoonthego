@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    Computer Science is not just my field of study, but also my passion. I'm on the journey to become a Fullstack Engineer who can design, build, and scale modern web applications, while also exploring how AI can be seamlessly integrated into these systems.  
+   Computer Science fuels my curiosity and drive. I aim to be both a Fullstack and AI Engineer, creating robust web applications and exploring innovative ways to embed AI into real-world systems.  
   </em>
 </p>
 

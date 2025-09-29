@@ -1,19 +1,28 @@
 <h1>👋 Ohayou, Call me Ngoc</h1>
 
 <p>
-  <em>Computer Science is really an indispensable part of my life. I'm currently studying and researching AI, with a strong passion for creating a LLM-based ChatBot that can assist in learning and answering questions.
-
-My goal is to build a smart assistant that helps people (including me of course) learn more effectively by providing accurate explanations, knowledge visualization, instant feedback, and helpful resources, just like a reliable study partner. I believe I can do it. </em>
+  <em>
+    Computer Science is not just my field of study, but also my passion. I'm on the journey to become a Fullstack Engineer who can design, build, and scale modern web applications, while also exploring how AI can be seamlessly integrated into these systems.  
+  </em>
 </p>
 
 ---
 
-## 💡 Current Focus
+## 💡 What I'm Working On
 
-- 🤖 Exploring Large Language Models (LLMs) and real-world AI applications  
-- 💻 Strengthening back-end skills with Django, FastAPI, and Spring Boot   
-- 🧠 Writing clean, scalable, and maintainable code  
-- 🛠 Improving database design and system performance
+- 🌐 **Fullstack Development**: Building scalable web apps with Java (Spring Boot), Python (Django, FastAPI), and modern front-end technologies  
+- 🤖 **Applied AI**: Exploring Large Language Models (LLMs) to create intelligent assistants and real-world AI-powered features  
+- ☁️ **Cloud & System Design**: Designing systems that are reliable, maintainable, and cloud-ready  
+
+---
+
+## 🎯 Vision
+
+My long-term goal is to become an engineer who can bridge **software engineering** and **artificial intelligence**:  
+- Developing full-featured applications that people actually use  
+- Integrating AI to bring smarter, more interactive, and more human-like experiences  
+- Contributing to products that make technology more accessible and beneficial for everyone  
+- Improving database design and system performance
 
 ---
 

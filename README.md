@@ -18,7 +18,7 @@
 
 ## 🎯 Vision
 
-My long-term goal is to become an engineer who can bridge **software engineering** and **artificial intelligence**:  
+My long-term goal is to become an engineer who can bridge **Software Engineer** and **AI**:  
 - Developing full-featured applications that people actually use  
 - Integrating AI to bring smarter, more interactive, and more human-like experiences  
 - Contributing to products that make technology more accessible and beneficial for everyone  

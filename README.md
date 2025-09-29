@@ -48,21 +48,15 @@ My long-term goal is to become an engineer who can bridge **software engineering
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sangoonthego&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=sangoonthego&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangoonthego&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sangoonthego&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sangoonthego&theme=tokyonight&hide_border=true" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
+</div>
+
+<div style="margin-top: 20px; text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangoonthego&layout=compact&theme=tokyonight&hide_border=true" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
+</div>
 
 ---
 

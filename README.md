@@ -8,14 +8,6 @@
 
 ---
 
-## 💡 What I'm Working On
-
-- 🌐 **Fullstack Development**: Building scalable web apps with Java (Spring Boot), Python (Django, FastAPI), and modern front-end technologies  
-- 🤖 **Applied AI**: Exploring Large Language Models (LLMs) to create intelligent assistants and real-world AI-powered features  
-- ☁️ **Cloud & System Design**: Designing systems that are reliable, maintainable, and cloud-ready  
-
----
-
 ## 🎯 Vision
 
 My long-term goal is to become an engineer who can bridge **Software Engineer** and **AI**:  

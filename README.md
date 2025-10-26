@@ -8,24 +8,11 @@
 
 ---
 
-## 🎯 Vision
-
-My long-term goal is to become an engineer who can bridge **Software Engineer** and **AI**:  
-- Developing full-featured applications that people actually use  
-- Integrating AI to bring smarter, more interactive, and more human-like experiences  
-- Contributing to products that make technology more accessible and beneficial for everyone  
-- Improving database design and system performance
-
----
-
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-8F60BF?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1A1A74?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,8 +21,6 @@ My long-term goal is to become an engineer who can bridge **Software Engineer** 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -53,7 +38,7 @@ My long-term goal is to become an engineer who can bridge **Software Engineer** 
 
 ---
 
-## 📫 Let's Connect
+## 📫 My Social
 
 <p align="center">
   <a href="https://www.instagram.com/_sango.dono_" target="_blank">
@@ -68,10 +53,4 @@ My long-term goal is to become an engineer who can bridge **Software Engineer** 
   <a href="https://www.facebook.com/tuanngoc.nguyen.52056" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p>
-  ✨ Thanks for visiting my GitHub profile! Feel free to reach out! ✨
 </p>

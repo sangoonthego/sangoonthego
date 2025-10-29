@@ -2,7 +2,7 @@
 
 <p>
   <em>
-   Computer Science fuels my curiosity and drive. I aim to be both a Fullstack and AI Engineer, creating robust web applications and exploring innovative ways to embed AI into real-world systems.  
+   Computer Science fuels my curiosity and drive. I aim to be both a Software and AI Engineer, creating robust web applications and exploring innovative ways to embed AI into real-world systems.  
   </em>
 </p>
 
@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-00BCD4?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-04D2B9?style=for-the-badge&logo=dart&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)

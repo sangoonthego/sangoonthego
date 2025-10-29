@@ -2,7 +2,7 @@
 
 <p>
   <em>
-   Computer Science fuels my curiosity and drive. I aim to be both a Fullstack and AI Engineer, creating robust web applications and exploring innovative ways to embed AI into real-world systems.  
+   Computer Science fuels my curiosity and drive. I aim to be a Fullstack and AI Engineer, creating robust web applications and exploring innovative ways to embed AI into real-world systems.  
   </em>
 </p>
 

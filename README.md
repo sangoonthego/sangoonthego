@@ -15,7 +15,6 @@
 ![Spring](https://img.shields.io/badge/Spring-3A5A40?style=for-the-badge&logo=spring&logoColor=E8F5E9)
 ![React](https://img.shields.io/badge/React-1E3D59?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-2E8B57?style=for-the-badge&logo=node.js&logoColor=FFF8E7)
-![Dart](https://img.shields.io/badge/Dart-264653?style=for-the-badge&logo=dart&logoColor=A8DADC)
 ![PyTorch](https://img.shields.io/badge/PyTorch-D62828?style=for-the-badge&logo=pytorch&logoColor=FFD166)
 ![MySQL](https://img.shields.io/badge/MySQL-1C1C1C?style=for-the-badge&logo=mysql&logoColor=E9C46A)
 ![MongoDB](https://img.shields.io/badge/MongoDB-31572C?style=for-the-badge&logo=mongodb&logoColor=E5EEC1)

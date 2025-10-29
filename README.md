@@ -10,15 +10,15 @@
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=FFD43B)
-![FastAPI](https://img.shields.io/badge/FastAPI-0E7490?style=for-the-badge&logo=fastapi&logoColor=A7F3D0)
-![Spring](https://img.shields.io/badge/Spring-14532D?style=for-the-badge&logo=spring&logoColor=86EFAC)
-![React](https://img.shields.io/badge/React-1E40AF?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-064E3B?style=for-the-badge&logo=node.js&logoColor=6EE7B7)
-![Dart](https://img.shields.io/badge/Dart-3730A3?style=for-the-badge&logo=dart&logoColor=93C5FD)
-![PyTorch](https://img.shields.io/badge/PyTorch-7F1D1D?style=for-the-badge&logo=pytorch&logoColor=FCA5A5)
-![MySQL](https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql&logoColor=FDE68A)
-![MongoDB](https://img.shields.io/badge/MongoDB-064E3B?style=for-the-badge&logo=mongodb&logoColor=A7F3D0)
+![Python](https://img.shields.io/badge/Python-gradient?logo=python&logoColor=FFD43B&labelColor=6B21A8&color=1E3A8A&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-gradient?logo=fastapi&logoColor=A7F3D0&labelColor=312E81&color=0E7490&style=for-the-badge)
+![Spring](https://img.shields.io/badge/Spring-gradient?logo=spring&logoColor=86EFAC&labelColor=064E3B&color=14532D&style=for-the-badge)
+![React](https://img.shields.io/badge/React-gradient?logo=react&logoColor=61DAFB&labelColor=312E81&color=1E40AF&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-gradient?logo=node.js&logoColor=6EE7B7&labelColor=022C22&color=064E3B&style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-gradient?logo=dart&logoColor=93C5FD&labelColor=3730A3&color=1E3A8A&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-gradient?logo=pytorch&logoColor=FCA5A5&labelColor=581C87&color=7F1D1D&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-gradient?logo=mysql&logoColor=FDE68A&labelColor=0F172A&color=1E293B&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-gradient?logo=mongodb&logoColor=A7F3D0&labelColor=022C22&color=064E3B&style=for-the-badge)
 
 ---
 

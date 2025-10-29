@@ -10,15 +10,15 @@
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-2B2D42?style=for-the-badge&logo=python&logoColor=F9D162)
-![FastAPI](https://img.shields.io/badge/FastAPI-0E8388?style=for-the-badge&logo=fastapi&logoColor=E0E0E0)
-![Spring](https://img.shields.io/badge/Spring-4F7942?style=for-the-badge&logo=spring&logoColor=E8F5E9)
-![React](https://img.shields.io/badge/React-0A3D62?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-355E3B?style=for-the-badge&logo=node.js&logoColor=DFFFD6)
-![Dart](https://img.shields.io/badge/Dart-1B4F72?style=for-the-badge&logo=dart&logoColor=AED6F1)
-![PyTorch](https://img.shields.io/badge/PyTorch-4A0E0E?style=for-the-badge&logo=pytorch&logoColor=FAD7A0)
-![MySQL](https://img.shields.io/badge/MySQL-1C1C1C?style=for-the-badge&logo=mysql&logoColor=F8C471)
-![MongoDB](https://img.shields.io/badge/MongoDB-2E4053?style=for-the-badge&logo=mongodb&logoColor=82E0AA)
+![Python](https://img.shields.io/badge/Python-A11D33?style=for-the-badge&logo=python&logoColor=F8E473)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F4C5C?style=for-the-badge&logo=fastapi&logoColor=E0E0E0)
+![Spring](https://img.shields.io/badge/Spring-3A5A40?style=for-the-badge&logo=spring&logoColor=E8F5E9)
+![React](https://img.shields.io/badge/React-1E3D59?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-2E8B57?style=for-the-badge&logo=node.js&logoColor=FFF8E7)
+![Dart](https://img.shields.io/badge/Dart-264653?style=for-the-badge&logo=dart&logoColor=A8DADC)
+![PyTorch](https://img.shields.io/badge/PyTorch-D62828?style=for-the-badge&logo=pytorch&logoColor=FFD166)
+![MySQL](https://img.shields.io/badge/MySQL-1C1C1C?style=for-the-badge&logo=mysql&logoColor=E9C46A)
+![MongoDB](https://img.shields.io/badge/MongoDB-31572C?style=for-the-badge&logo=mongodb&logoColor=E5EEC1)
 
 ---
 

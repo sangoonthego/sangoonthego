@@ -23,7 +23,7 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 0px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=sangoonthego&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sangoonthego&theme=tokyonight&hide_border=true" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />

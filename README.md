@@ -23,12 +23,8 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangoonthego&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-       style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); flex-shrink: 0; max-width: 45%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sangoonthego&theme=tokyonight&hide_border=true"
-       style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); flex-shrink: 0; max-width: 45%;" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=sangoonthego&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&width=300" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sangoonthego&theme=tokyonight&hide_border=true&width=300" />
 
 <!-- <div style="margin-top: 20px; text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangoonthego&layout=compact&theme=tokyonight&hide_border=true" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />

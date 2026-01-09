@@ -11,10 +11,10 @@
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-A11D33?style=for-the-badge&logo=python&logoColor=F8E473)
-![PyTorch](https://img.shields.io/badge/PyTorch-D62828?style=for-the-badge&logo=pytorch&logoColor=FFD166)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0F4C5C?style=for-the-badge&logo=fastapi&logoColor=E0E0E0)
 ![React](https://img.shields.io/badge/React-1E3D59?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring](https://img.shields.io/badge/Spring-3A5A40?style=for-the-badge&logo=spring&logoColor=E8F5E9)
+![PyTorch](https://img.shields.io/badge/PyTorch-D62828?style=for-the-badge&logo=pytorch&logoColor=FFD166)
 ![Node.js](https://img.shields.io/badge/Node.js-2E8B57?style=for-the-badge&logo=node.js&logoColor=FFF8E7)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1C1C1C?style=for-the-badge&logo=mysql&logoColor=E9C46A)

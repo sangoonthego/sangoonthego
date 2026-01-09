@@ -11,13 +11,17 @@
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-A11D33?style=for-the-badge&logo=python&logoColor=F8E473)
-![FastAPI](https://img.shields.io/badge/FastAPI-0F4C5C?style=for-the-badge&logo=fastapi&logoColor=E0E0E0)
-![Spring](https://img.shields.io/badge/Spring-3A5A40?style=for-the-badge&logo=spring&logoColor=E8F5E9)
-![React](https://img.shields.io/badge/React-1E3D59?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-2E8B57?style=for-the-badge&logo=node.js&logoColor=FFF8E7)
 ![PyTorch](https://img.shields.io/badge/PyTorch-D62828?style=for-the-badge&logo=pytorch&logoColor=FFD166)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F4C5C?style=for-the-badge&logo=fastapi&logoColor=E0E0E0)
+![React](https://img.shields.io/badge/React-1E3D59?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring](https://img.shields.io/badge/Spring-3A5A40?style=for-the-badge&logo=spring&logoColor=E8F5E9)
+![Node.js](https://img.shields.io/badge/Node.js-2E8B57?style=for-the-badge&logo=node.js&logoColor=FFF8E7)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1C1C1C?style=for-the-badge&logo=mysql&logoColor=E9C46A)
 ![MongoDB](https://img.shields.io/badge/MongoDB-31572C?style=for-the-badge&logo=mongodb&logoColor=E5EEC1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 

@@ -10,7 +10,7 @@
 
 ## 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-A11D33?style=for-the-badge&logo=python&logoColor=F8E473)
+![Python](https://img.shields.io/badge/Flutter-A11D33?style=for-the-badge&logo=flutter&logoColor=F8E473)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0F4C5C?style=for-the-badge&logo=fastapi&logoColor=E0E0E0)
 ![Spring](https://img.shields.io/badge/Spring-3A5A40?style=for-the-badge&logo=spring&logoColor=E8F5E9)
 ![PyTorch](https://img.shields.io/badge/PyTorch-D62828?style=for-the-badge&logo=pytorch&logoColor=FFD166)

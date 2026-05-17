@@ -35,9 +35,9 @@
        style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); flex-shrink: 0; max-width: 45%;" />
 </div>
 
-<!-- <div style="margin-top: 20px; text-align: center;">
+<<div style="margin-top: 20px; text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangoonthego&layout=compact&theme=tokyonight&hide_border=true" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
-</div> -->
+</div>
 
 ---
 

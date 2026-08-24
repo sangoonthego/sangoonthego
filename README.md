@@ -1,55 +1,143 @@
-<h1>👋 Ohayou, Call me Ngoc</h1>
+<br/>
 
-<p>
-  <em>
-   Computer Science fuels my curiosity and drive. I aim to be a Fullstack and AI Engineer, creating robust web applications and exploring innovative ways to embed AI into real-world systems.  
-  </em>
-</p>
+<div align="center">
 
----
+# SANGO'S FIELD NOTES ✎
 
-## 🛠 Tech Stack
+<sub>
+Thoughts from the trenches.  
+Things I learned by building, breaking, measuring, and rebuilding.
+</sub>
 
-![Python](https://img.shields.io/badge/Flutter-A11D33?style=for-the-badge&logo=flutter&logoColor=F8E473)
-![FastAPI](https://img.shields.io/badge/FastAPI-0F4C5C?style=for-the-badge&logo=fastapi&logoColor=E0E0E0)
-![Spring](https://img.shields.io/badge/Spring-3A5A40?style=for-the-badge&logo=spring&logoColor=E8F5E9)
-![PyTorch](https://img.shields.io/badge/PyTorch-D62828?style=for-the-badge&logo=pytorch&logoColor=FFD166)
-![React](https://img.shields.io/badge/React-1E3D59?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-2E8B57?style=for-the-badge&logo=node.js&logoColor=FFF8E7)
-![Prisma](https://img.shields.io/badge/Prisma-2D3436?style=for-the-badge&logo=prisma&logoColor=F8E473)
-![MySQL](https://img.shields.io/badge/MySQL-1C1C1C?style=for-the-badge&logo=mysql&logoColor=E9C46A)
-![MongoDB](https://img.shields.io/badge/MongoDB-31572C?style=for-the-badge&logo=mongodb&logoColor=E5EEC1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A2F38?style=for-the-badge&logo=postgresql&logoColor=E0E0E0)
-![Docker](https://img.shields.io/badge/Docker-1D3557?style=for-the-badge&logo=docker&logoColor=F1FAEE)
-![Redis](https://img.shields.io/badge/Redis-641220?style=for-the-badge&logo=redis&logoColor=E9C46A)
-
----
-
-## 📊 GitHub Stats
-
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangoonthego&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-       style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); flex-shrink: 0; max-width: 45%;" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sangoonthego&theme=tokyonight&hide_border=true"
-       style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); flex-shrink: 0; max-width: 45%;" />
 </div>
 
----
+<br/>
 
-## 📫 My Social
+<table>
+<tr>
+<td width="80">
 
-<p align="center">
-  <a href="https://www.instagram.com/_sango.dono_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:knkidngoc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ngoc-nguyen-1a5036351/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/tuanngoc.nguyen.52056" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-</p>
+### `#031`
+
+</td>
+<td>
+
+### [Why retries without idempotency scare me](./notes/031-retries-without-idempotency.md)
+
+Retries sound harmless until the same operation runs twice.  
+Reliability starts with making repeated operations safe.
+
+`distributed-systems` `reliability` `backend`
+
+</td>
+<td width="95" align="right">
+
+`24 AUG 26`
+
+![new](https://img.shields.io/badge/NEW-CC785C?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="80">
+
+### `#030`
+
+</td>
+<td>
+
+### [When an isolate makes Flutter slower](./notes/030-when-isolates-make-flutter-slower.md)
+
+Moving work away from the UI isolate is not automatically an optimization.  
+Serialization, spawning, and communication have a cost too.
+
+`flutter` `performance` `isolates`
+
+</td>
+<td width="95" align="right">
+
+`22 AUG 26`
+
+![new](https://img.shields.io/badge/NEW-CC785C?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="80">
+
+### `#029`
+
+</td>
+<td>
+
+### [Why AI matching is easier than problem diagnosis](./notes/029-ai-matching-vs-problem-diagnosis.md)
+
+Finding a mentor is only useful after understanding  
+what problem actually needs to be solved.
+
+`ai` `product` `human-in-the-loop`
+
+</td>
+<td width="95" align="right">
+
+`20 AUG 26`
+
+</td>
+</tr>
+
+<tr>
+<td width="80">
+
+### `#028`
+
+</td>
+<td>
+
+### [What building a media pipeline taught me about reliability](./notes/028-media-pipeline-reliability.md)
+
+Download → normalize → freeze → transcode → publish → verify.  
+The interesting part was never FFmpeg. It was making every transition trustworthy.
+
+`media` `pipelines` `reliability`
+
+</td>
+<td width="95" align="right">
+
+`18 AUG 26`
+
+</td>
+</tr>
+
+<tr>
+<td width="80">
+
+### `#027`
+
+</td>
+<td>
+
+### [The cost of premature optimization](./notes/027-premature-optimization.md)
+
+Optimizing the wrong bottleneck only gives you  
+a faster version of the wrong architecture.
+
+`engineering` `performance` `architecture`
+
+</td>
+<td width="95" align="right">
+
+`15 AUG 26`
+
+</td>
+</tr>
+</table>
+
+<div align="right">
+
+[**→ Read all field notes**](./notes/README.md)
+
+</div>
+
+<br/>

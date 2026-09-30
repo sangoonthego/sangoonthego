@@ -1,13 +1,5 @@
 <h1>Ohayou👋</h1>
 
-<p>
-  <em>
-    I build products to understand people, problems, and the systems around them.
-  </em>
-</p>
-
----
-
 I'm especially interested in **product thinking**, **AI systems**, **creative tools**, and **human–AI collaboration**.
 
 I'm currently learning how to turn real-world problems into products through  
